@@ -1,6 +1,3 @@
-# github-restaurant-visits-diary
-Backend Restaurant visits diary with NestJs, Prisma and Postgres. (Postgresql on docker)
-
 Project : restaurant visits diary
 
 # We used
@@ -51,4 +48,3 @@ http://localhost:3000/visits/restaurant
 1. Stop the app server.
 1. npm run db:test:restart:windows or npm run db:test:restart:unix
 1. npm run test:e2e:windows or npm run test:e2e:unix
-
